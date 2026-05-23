@@ -34,7 +34,6 @@ The goal of this repository is to help:
 | Lecture 04 | Pattern Problems |
 | Lecture 05 | First Code in Strike |
 | Lecture 06 | Functions in C++ |
-
 ---
 
 # 🟢 PHASE 02 : ARRAYS
